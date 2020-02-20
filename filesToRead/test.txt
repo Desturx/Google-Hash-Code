@@ -1,0 +1,2 @@
+tengo,un,coche
+tengo,una,moto
